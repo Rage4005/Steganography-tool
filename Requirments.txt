@@ -1,0 +1,2 @@
+Requirments
+download pillow and  numpy
