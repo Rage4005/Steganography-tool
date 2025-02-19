@@ -1,2 +1,3 @@
 Requirments
 download pillow and  numpy
+and must have a python environment installed
